@@ -4,7 +4,6 @@
   display: block;
   margin: 3rem auto;
   background-color: var(--coffee);
-  border: 1px solid var(--wcoffee);
   background-image: url("../../assets/hotcoffee.png");
   background-repeat: no-repeat;
   background-size: cover;
